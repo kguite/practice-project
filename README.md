@@ -1,3 +1,13 @@
+<img width="991" alt="Screen Shot 2022-07-02 at 12 16 14 PM" src="https://user-images.githubusercontent.com/33885541/177013662-91057ebf-ee96-4080-b2a7-3743288e7429.png">
+
+
+
+
+
+
+
+
+
 # Astro Starter Kit: Minimal
 
 ```
